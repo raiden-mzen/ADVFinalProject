@@ -1,0 +1,30 @@
+
+.footerHome{
+    background-color: #000000;
+    color:#ffffff;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    z-index: 1;
+}
+
+.p{
+    padding-left: 10px;
+}
+.Icons{
+    display: flex;
+    flex-direction: row;
+}
+
+#facebookIconDark{
+    padding-left: 10px;
+}
+#messengerIconDark{
+    padding-left: 30px;
+}
+#instagramIconDark{
+    padding-left: 30px;
+}
+#twitterIconDark{
+    padding-left: 30px;
+}
